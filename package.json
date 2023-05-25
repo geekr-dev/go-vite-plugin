@@ -1,19 +1,19 @@
 {
-    "name": "laravel-vite-plugin",
+    "name": "go-vite-plugin",
     "version": "0.7.8",
-    "description": "Laravel plugin for Vite.",
+    "description": "Go plugin for Vite.",
     "keywords": [
-        "laravel",
+        "go",
         "vite",
         "vite-plugin"
     ],
-    "homepage": "https://github.com/laravel/vite-plugin",
+    "homepage": "https://github.com/geekr-dev/go-vite-plugin",
     "repository": {
         "type": "git",
-        "url": "https://github.com/laravel/vite-plugin"
+        "url": "https://github.com/geekr-dev/go-vite-plugin"
     },
     "license": "MIT",
-    "author": "Laravel",
+    "author": "Geekr",
     "exports": {
         ".": {
             "import": "./dist/index.mjs",
