@@ -24,7 +24,7 @@ import vue from '@vitejs/plugin-vue';
 export default defineConfig({
     plugins: [
         go({
-            input: 'resources/js/app.js',
+            input: 'resources/js/app.js',  // js source code entry point
             refresh: true,
         }),
         vue({
